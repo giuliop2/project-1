@@ -8,3 +8,4 @@
 - Github overview
 - Markdown language for README files
 - JavaScript ES6+ features
+- i learned how to push things from my local repo 
