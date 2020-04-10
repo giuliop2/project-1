@@ -22,7 +22,7 @@ console.log(arrMax([2, 3, 5, 7, 9]));
 console.log(arrMax([6, 2, 4]));
 
 sumEvens = (arr) => {
-  var sum = 0;
+  let sum = 0;
     for(n of arr){
         if(n%2==0){
             sum=sum+n;
@@ -30,4 +30,5 @@ sumEvens = (arr) => {
     }
     return sum;
 };
+
 console.log(sumEvens([2,3,5,7,8]));
