@@ -9,6 +9,8 @@
 - Markdown language for README files
 - JavaScript ES6+ features
 - i learned how to push things from my local repo
+
+
 ![Octocat](images/OCtocat_50.png)
 
 [Github](https://github.com/UO-CIT/project-1-giuliop2)
